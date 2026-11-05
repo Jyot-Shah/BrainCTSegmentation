@@ -1,0 +1,66 @@
+# Configuration for 2.5D DeepLabV3+ Brain CT Hemorrhage Segmentation
+
+experiment_name: "deeplabv3plus_resnet34_25d"
+
+data:
+  dataset_dir: "Dataset"
+  split_dir: "data_splits"
+  train_manifest: "data_splits/train_manifest.csv"
+  val_manifest: "data_splits/val_manifest.csv"
+  dev_manifest: "data_splits/dev_manifest.csv"
+  image_size: [512, 512]
+  in_channels: 9
+  num_classes: 6
+  batch_size: 4
+  num_workers: 0  # 0 recommended on Windows for reliable GPU execution
+  filter_empty_slices_prob: 0.3  # Skips a fraction of background-only slices during training
+
+minority_sampling:
+  enabled: true
+  weight_edh: 30.0  # High boost so EDH appears in virtually every batch (~30% slice frequency)
+  weight_sdh: 8.0   # Boost for thin crescent SDH
+  weight_sah: 6.0   # Boost for thin sulcal SAH
+  weight_iph: 2.0   # Moderate boost for intraparenchymal
+  weight_ivh: 2.5   # Moderate boost for intraventricular
+  weight_bg: 0.4    # Controlled background sampling
+
+model:
+  architecture: "DeepLabV3Plus"
+  encoder_name: "resnet34"
+  encoder_weights: "imagenet"
+  encoder_output_stride: 8  # Retains 64x64 feature map in ASPP (4x more spatial detail for thin bleeds)
+  decoder_atrous_rates: [6, 12, 18]
+  in_channels: 9
+  num_classes: 6
+  decoder_dropout: 0.2  # Must be >= 0.2 for MC Dropout compliance
+
+loss:
+  alpha_ce: 1.0
+  beta_dice: 2.0        # Strong foreground Dice/Tversky gradient
+  focal_gamma: 1.5      # Down-weights easy background voxels
+  tversky_alpha: 0.3    # False-positive penalty weight
+  tversky_beta: 0.7     # False-negative penalty weight (2.33x higher penalty on missed bleeds)
+  weight_power: 0.5
+  max_weight: 75.0      # Uncaps EDH (~70.8) so it receives 2.55x the gradient of IPH
+  include_background_dice: false  # Focus Soft Dice strictly on the 5 hemorrhage types
+
+training:
+  num_epochs: 45
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  min_lr: 0.00001
+  lr_scheduler: "cosine"
+  grad_clip_norm: 1.0
+  use_amp: true
+  early_stopping_patience: 15
+  seed: 42
+
+augmentation:
+  hflip_prob: 0.5
+  rotate_deg: 15.0
+  intensity_jitter_hu: 20.0  # Kept <= 30 HU to preserve tissue window signal
+
+output:
+  checkpoint_dir: "outputs/checkpoints"
+  metrics_dir: "outputs/metrics"
+  figures_dir: "outputs/figures"

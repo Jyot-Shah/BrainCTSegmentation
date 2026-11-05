@@ -1,0 +1,11 @@
+filename,slice_idx,num_slices,target_classes,has_foreground,has_edh,has_iph,has_sah,has_sdh,has_ivh,selection_strategy,selection_band,mean_fg_entropy,category
+ID_0191dac9_ID_d05f80e5d2.nii.gz,3,30,0,0,0,0,0,0,0,Random Selection (Control),Random,0.4453190565109253,nobleed
+ID_013cf2a2_ID_2a797d0f2e.nii.gz,16,30,0,0,0,0,0,0,0,Random Selection (Control),Random,0.7041913866996765,nobleed
+ID_00c33d73_ID_c67f7e4103.nii.gz,16,30,"0,1",1,0,1,0,0,0,Random Selection (Control),Random,0.20385201275348663,anybleed
+ID_00d96858_ID_866f5de809.nii.gz,32,30,0,0,0,0,0,0,0,Random Selection (Control),Random,0.30730560421943665,nobleed
+ID_039bebb1_ID_0fdcfd6fbb.nii.gz,3,30,"0,1",1,0,1,0,0,0,Random Selection (Control),Random,0.35987257957458496,anybleed
+ID_039bebb1_ID_0fdcfd6fbb.nii.gz,2,30,"0,1",1,0,1,0,0,0,Random Selection (Control),Random,0.17618428170681,anybleed
+ID_012844cd_ID_9e9f279adf.nii.gz,12,30,0,0,0,0,0,0,0,Random Selection (Control),Random,0.5057998895645142,nobleed
+ID_00c33d73_ID_c67f7e4103.nii.gz,18,30,"0,1",1,0,1,0,0,0,Random Selection (Control),Random,0.20703256130218506,anybleed
+ID_020d770a_ID_e2b1917b29.nii.gz,16,30,"0,1",1,0,1,0,0,0,Random Selection (Control),Random,0.23302049934864044,anybleed
+ID_015dae2c_ID_dd5cff7a9e.nii.gz,26,30,0,0,0,0,0,0,0,Random Selection (Control),Random,0.326030433177948,nobleed

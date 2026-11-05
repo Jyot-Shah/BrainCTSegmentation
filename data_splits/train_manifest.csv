@@ -1,0 +1,135 @@
+filename,patient_id,num_slices,height,width,raw_classes,target_classes,has_edh,has_iph,has_ivh,has_sah,has_sdh
+ID_0237f3c9_ID_40015688b9.nii.gz,0237f3c9,28,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_029ebbea_ID_563afa0901.nii.gz,029ebbea,28,512,512,"[0, 2, 5]","[0, 1, 4]",False,True,False,False,True
+ID_02b882cc_ID_a4892e60ae.nii.gz,02b882cc,32,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_02f779fb_ID_c4d7f33559.nii.gz,02f779fb,31,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_041e6601_ID_1fa1d20bba.nii.gz,041e6601,32,512,512,"[0, 1, 2, 5]","[0, 3, 1, 4]",True,True,False,False,True
+ID_0492041f_ID_b4fcf2f799.nii.gz,0492041f,36,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_07365cde_ID_8e661b8f07.nii.gz,07365cde,30,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_089596a9_ID_ea71b57820.nii.gz,089596a9,40,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_0b10cbee_ID_f91d6a7cd2.nii.gz,0b10cbee,32,512,512,"[0, 1]","[0, 3]",True,False,False,False,False
+ID_0c3eef60_ID_6994ad7df0.nii.gz,0c3eef60,35,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_0c6b97a9_ID_6011bb9ce8.nii.gz,0c6b97a9,32,512,512,"[0, 3, 4]","[0, 5, 2]",False,False,True,True,False
+ID_10beb45f_ID_7184e80f09.nii.gz,10beb45f,28,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_14058625_ID_527c581583.nii.gz,14058625,36,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_1653b22b_ID_c35cd0de73.nii.gz,1653b22b,32,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_16ed917a_ID_145f184354.nii.gz,16ed917a,32,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_181aab15_ID_062634d043.nii.gz,181aab15,28,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_196704db_ID_4eb6296376.nii.gz,196704db,32,512,512,"[0, 3]","[0, 5]",False,False,True,False,False
+ID_2334b45f_ID_9f31e831ac.nii.gz,2334b45f,42,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_2872834a_ID_542e9d00da.nii.gz,2872834a,32,512,512,"[0, 1]","[0, 3]",True,False,False,False,False
+ID_2931ca43_ID_2a2b28e0ab.nii.gz,2931ca43,32,512,512,"[0, 4, 5]","[0, 2, 4]",False,False,False,True,True
+ID_2db7ee14_ID_2591d00dfc.nii.gz,2db7ee14,37,512,512,"[0, 1, 4]","[0, 3, 2]",True,False,False,True,False
+ID_2db7ee14_ID_f27e38fdfd.nii.gz,2db7ee14,34,512,512,"[0, 1, 4]","[0, 3, 2]",True,False,False,True,False
+ID_30d19531_ID_cf607a5cd7.nii.gz,30d19531,32,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_3343ddf2_ID_fddff2e9c1.nii.gz,3343ddf2,24,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_338738e7_ID_0808281b2a.nii.gz,338738e7,28,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_346de481_ID_2e8fea0d9a.nii.gz,346de481,32,512,512,"[0, 1, 2, 5]","[0, 3, 1, 4]",True,True,False,False,True
+ID_39bdd84b_ID_a318f304e4.nii.gz,39bdd84b,30,512,512,"[0, 3]","[0, 5]",False,False,True,False,False
+ID_3bda60be_ID_067209cc9a.nii.gz,3bda60be,40,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_41a55df8_ID_ca0abe844a.nii.gz,41a55df8,34,512,512,"[0, 2, 3, 5]","[0, 1, 5, 4]",False,True,True,False,True
+ID_4681a956_ID_5b133aa2c0.nii.gz,4681a956,28,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_47aa2b3a_ID_95a9953aba.nii.gz,47aa2b3a,24,512,512,"[0, 4]","[0, 2]",False,False,False,True,False
+ID_495ac92a_ID_4daa7b9cc7.nii.gz,495ac92a,38,512,512,"[0, 3, 4, 5]","[0, 5, 2, 4]",False,False,True,True,True
+ID_4e227c9c_ID_d8607fa88e.nii.gz,4e227c9c,30,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_4e25e744_ID_b0275c19cd.nii.gz,4e25e744,34,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_4ec93c83_ID_b76a4106f8.nii.gz,4ec93c83,46,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_552aabb9_ID_152fdcf86e.nii.gz,552aabb9,30,512,512,"[0, 2, 5]","[0, 1, 4]",False,True,False,False,True
+ID_55742eb7_ID_7d5ad548ca.nii.gz,55742eb7,32,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_56faaf6f_ID_dd8f688dff.nii.gz,56faaf6f,48,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_5910d129_ID_094eb98167.nii.gz,5910d129,34,512,512,"[0, 1, 2, 3, 4]","[0, 3, 1, 5, 2]",True,True,True,True,False
+ID_596dfbc1_ID_fe7dab2602.nii.gz,596dfbc1,34,512,512,"[0, 1]","[0, 3]",True,False,False,False,False
+ID_5adb32dc_ID_35dd6d3d56.nii.gz,5adb32dc,32,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_5f53ab26_ID_f1c7d54a53.nii.gz,5f53ab26,32,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_63862d24_ID_24f0f2ff02.nii.gz,63862d24,60,512,512,"[0, 3, 4, 5]","[0, 5, 2, 4]",False,False,True,True,True
+ID_66a9a60e_ID_3a4f389a07.nii.gz,66a9a60e,46,512,512,"[0, 3, 4]","[0, 5, 2]",False,False,True,True,False
+ID_6874ab42_ID_209e53bf66.nii.gz,6874ab42,39,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_69b19057_ID_44d0da38f2.nii.gz,69b19057,32,512,512,"[0, 3, 4, 5]","[0, 5, 2, 4]",False,False,True,True,True
+ID_69e721e0_ID_a6f36605d7.nii.gz,69e721e0,34,512,512,"[0, 1]","[0, 3]",True,False,False,False,False
+ID_6c70bf18_ID_3915fd7d41.nii.gz,6c70bf18,30,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_727c946e_ID_e1fd84171a.nii.gz,727c946e,30,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_751df220_ID_4c26128a8d.nii.gz,751df220,32,512,512,"[0, 4, 5]","[0, 2, 4]",False,False,False,True,True
+ID_77cd921b_ID_e0d0a5f299.nii.gz,77cd921b,30,512,512,"[0, 3, 4, 5]","[0, 5, 2, 4]",False,False,True,True,True
+ID_7860208e_ID_f68c193b69.nii.gz,7860208e,32,512,512,"[0, 1]","[0, 3]",True,False,False,False,False
+ID_790acb3f_ID_c294f81468.nii.gz,790acb3f,34,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_7d5594ff_ID_cb535d3e8b.nii.gz,7d5594ff,32,512,512,"[0, 3, 4]","[0, 5, 2]",False,False,True,True,False
+ID_7db5845a_ID_0c7cd6982b.nii.gz,7db5845a,36,512,512,"[0, 2, 3, 5]","[0, 1, 5, 4]",False,True,True,False,True
+ID_7e8279ce_ID_75522ba124.nii.gz,7e8279ce,40,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_811a274b_ID_fa1c9402fb.nii.gz,811a274b,32,512,512,"[0, 2, 3, 5]","[0, 1, 5, 4]",False,True,True,False,True
+ID_83a07ec6_ID_ef148a90ed.nii.gz,83a07ec6,32,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_87385103_ID_684afaed55.nii.gz,87385103,40,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_87e60d98_ID_0c2d2758ae.nii.gz,87e60d98,28,512,512,"[0, 1]","[0, 3]",True,False,False,False,False
+ID_88dbe13f_ID_01c5078fbf.nii.gz,88dbe13f,36,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_8d326f80_ID_87b6843dde.nii.gz,8d326f80,32,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_8d914da6_ID_b4eb9c8234.nii.gz,8d914da6,40,512,512,"[0, 4]","[0, 2]",False,False,False,True,False
+ID_8e8df8c0_ID_857231e0c6.nii.gz,8e8df8c0,32,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_90233c1a_ID_51c49c9abf.nii.gz,90233c1a,28,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_90b88b8b_ID_8d39c61ccd.nii.gz,90b88b8b,30,512,512,"[0, 1, 5]","[0, 3, 4]",True,False,False,False,True
+ID_94271e7f_ID_50fb725eb8.nii.gz,94271e7f,32,512,512,"[0, 2, 5]","[0, 1, 4]",False,True,False,False,True
+ID_9631ec18_ID_c205d02b10.nii.gz,9631ec18,32,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_96967deb_ID_5d782e9379.nii.gz,96967deb,35,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_977da27d_ID_7ca7e2a2e4.nii.gz,977da27d,46,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_981d95a4_ID_ec08553ddc.nii.gz,981d95a4,36,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_98fcfe52_ID_a8bbf4336d.nii.gz,98fcfe52,32,512,512,"[0, 3]","[0, 5]",False,False,True,False,False
+ID_997f19cf_ID_8fc04eb1f5.nii.gz,997f19cf,32,512,512,"[0, 3, 4]","[0, 5, 2]",False,False,True,True,False
+ID_9a8ad2df_ID_0ec627c99a.nii.gz,9a8ad2df,40,512,512,"[0, 3, 5]","[0, 5, 4]",False,False,True,False,True
+ID_9ba3be10_ID_1c4e9f3c40.nii.gz,9ba3be10,36,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_9cc1c1a0_ID_8fb44d82d0.nii.gz,9cc1c1a0,32,512,512,"[0, 3, 4]","[0, 5, 2]",False,False,True,True,False
+ID_9dce269b_ID_4191982e02.nii.gz,9dce269b,44,512,512,"[0, 2, 3, 5]","[0, 1, 5, 4]",False,True,True,False,True
+ID_9e0eaeeb_ID_be5b5b11eb.nii.gz,9e0eaeeb,32,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_9ed18606_ID_8cfe740d83.nii.gz,9ed18606,28,512,512,"[0, 2, 3, 5]","[0, 1, 5, 4]",False,True,True,False,True
+ID_a1703be5_ID_d0e02f0443.nii.gz,a1703be5,32,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_a2ddcdfe_ID_d7aedfd21f.nii.gz,a2ddcdfe,35,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_a40e10b0_ID_18c55dad14.nii.gz,a40e10b0,30,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_a429fd9a_ID_2eabc43f3d.nii.gz,a429fd9a,32,512,512,"[0, 4]","[0, 2]",False,False,False,True,False
+ID_a554892c_ID_7d5bccea0e.nii.gz,a554892c,32,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_a72de500_ID_87b2b4fc60.nii.gz,a72de500,30,512,512,"[0, 3]","[0, 5]",False,False,True,False,False
+ID_a768755c_ID_3541b002ac.nii.gz,a768755c,36,512,512,"[0, 2, 5]","[0, 1, 4]",False,True,False,False,True
+ID_a9b3fedc_ID_3850bef0a3.nii.gz,a9b3fedc,30,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_a9fe41fd_ID_ba000cea10.nii.gz,a9fe41fd,38,512,512,"[0, 1]","[0, 3]",True,False,False,False,False
+ID_aaf2973d_ID_4002bc3ced.nii.gz,aaf2973d,24,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_ab1ba874_ID_0c1c9bf0ae.nii.gz,ab1ba874,33,512,512,"[0, 1, 2, 3, 4, 5]","[0, 3, 1, 5, 2, 4]",True,True,True,True,True
+ID_acaa9bd1_ID_02fe96388e.nii.gz,acaa9bd1,32,512,512,"[0, 3]","[0, 5]",False,False,True,False,False
+ID_af8ac3ec_ID_81a154bf08.nii.gz,af8ac3ec,32,512,512,"[0, 5]","[0, 4]",False,False,False,False,True
+ID_b14c7e8b_ID_fe3a6804e3.nii.gz,b14c7e8b,32,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_b1d5d5e8_ID_4cfa36b63f.nii.gz,b1d5d5e8,32,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_b3a33085_ID_175a5c4119.nii.gz,b3a33085,32,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_b80aec97_ID_2aa91505e6.nii.gz,b80aec97,32,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_b85bdbe9_ID_cb52cd5d53.nii.gz,b85bdbe9,42,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_b92014da_ID_a9310805a0.nii.gz,b92014da,32,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_b972b07f_ID_b5ace7f563.nii.gz,b972b07f,32,512,512,"[0, 1, 2, 3, 4]","[0, 3, 1, 5, 2]",True,True,True,True,False
+ID_ba3a77dd_ID_70715be365.nii.gz,ba3a77dd,32,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_c08a7b51_ID_b98f437f69.nii.gz,c08a7b51,33,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_c1e1c4ef_ID_521bc36497.nii.gz,c1e1c4ef,40,512,512,"[0, 3, 4, 5]","[0, 5, 2, 4]",False,False,True,True,True
+ID_c488fbef_ID_ae4af6dd21.nii.gz,c488fbef,36,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_c5479170_ID_6cc8f5463a.nii.gz,c5479170,32,512,512,"[0, 3]","[0, 5]",False,False,True,False,False
+ID_c91d516c_ID_2d2f3d2953.nii.gz,c91d516c,28,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_c9d6fdc6_ID_7f09be285d.nii.gz,c9d6fdc6,38,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_cb4c887c_ID_ec2a4643f3.nii.gz,cb4c887c,30,512,512,"[0, 4, 5]","[0, 2, 4]",False,False,False,True,True
+ID_ccbe16e6_ID_706deb5ba2.nii.gz,ccbe16e6,32,512,512,"[0, 5]","[0, 4]",False,False,False,False,True
+ID_cdaa21cb_ID_a5f7ae30f1.nii.gz,cdaa21cb,36,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_cf8f428f_ID_61ec5a3e22.nii.gz,cf8f428f,32,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_d039497d_ID_da6cc2290f.nii.gz,d039497d,38,512,512,"[0, 5]","[0, 4]",False,False,False,False,True
+ID_d29d246b_ID_6121b401e7.nii.gz,d29d246b,32,512,512,"[0, 3, 4, 5]","[0, 5, 2, 4]",False,False,True,True,True
+ID_d2deede6_ID_799247e354.nii.gz,d2deede6,35,512,512,"[0, 3]","[0, 5]",False,False,True,False,False
+ID_d3d99dce_ID_cd10b6aba1.nii.gz,d3d99dce,28,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_d79fa3ff_ID_90d02c54ba.nii.gz,d79fa3ff,34,512,512,"[0, 2, 3, 5]","[0, 1, 5, 4]",False,True,True,False,True
+ID_d8e67d7d_ID_c182bd8176.nii.gz,d8e67d7d,36,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_d9675573_ID_02237f7694.nii.gz,d9675573,40,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_daf22e49_ID_bf76e84f8d.nii.gz,daf22e49,32,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_db89259c_ID_2c20aff0f9.nii.gz,db89259c,33,512,512,"[0, 2, 4]","[0, 1, 2]",False,True,False,True,False
+ID_dd3d7720_ID_6a88b9c0eb.nii.gz,dd3d7720,30,512,512,"[0, 4]","[0, 2]",False,False,False,True,False
+ID_df3f0a7d_ID_fbcdf807a8.nii.gz,df3f0a7d,32,512,512,"[0, 2, 4, 5]","[0, 1, 2, 4]",False,True,False,True,True
+ID_df935041_ID_32b8592d2c.nii.gz,df935041,40,512,512,"[0, 5]","[0, 4]",False,False,False,False,True
+ID_e05b3047_ID_3d78428b2d.nii.gz,e05b3047,36,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_e1d9fe9d_ID_f73aea5186.nii.gz,e1d9fe9d,28,512,512,"[0, 2, 3]","[0, 1, 5]",False,True,True,False,False
+ID_e2e2e522_ID_7b7b5543dc.nii.gz,e2e2e522,30,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_e566ef9b_ID_439ce9720b.nii.gz,e566ef9b,32,512,512,"[0, 5]","[0, 4]",False,False,False,False,True
+ID_e8691c40_ID_4e6812b21a.nii.gz,e8691c40,32,512,512,"[0, 2]","[0, 1]",False,True,False,False,False
+ID_ea687366_ID_452c5f1f8c.nii.gz,ea687366,38,512,512,"[0, 2, 3, 4, 5]","[0, 1, 5, 2, 4]",False,True,True,True,True
+ID_eac5718d_ID_5a2b7690df.nii.gz,eac5718d,39,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_ed6dfff7_ID_f54a5fd2c8.nii.gz,ed6dfff7,32,512,512,"[0, 2, 3, 4]","[0, 1, 5, 2]",False,True,True,True,False
+ID_f1a342da_ID_13d6f969d2.nii.gz,f1a342da,34,512,512,"[0, 4]","[0, 2]",False,False,False,True,False
+ID_f335b6db_ID_d180629430.nii.gz,f335b6db,36,512,512,"[0, 5]","[0, 4]",False,False,False,False,True
+ID_fb6d0135_ID_497840f16e.nii.gz,fb6d0135,28,512,512,"[0, 3, 4, 5]","[0, 5, 2, 4]",False,False,True,True,True
+ID_fcbe7eda_ID_5726e1c630.nii.gz,fcbe7eda,32,512,512,"[0, 4]","[0, 2]",False,False,False,True,False
